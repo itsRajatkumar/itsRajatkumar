@@ -36,12 +36,7 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="itsRajatkumar's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=itsRajatkumar&show_icons=true&hide_border=true" />
-
-</details>
+[![Rajat kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsRajatkumar)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
