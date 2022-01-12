@@ -1,4 +1,4 @@
-<img align="right" alt="C" width="200px" src="http://rajatkumar.tech/img/about.jpg"/>
+<img alt="Banner" width="" src="banner.png"/>
 
 ### Hi there, I'm  [Rajat Kumar Prajapati][website] 👋 
 
