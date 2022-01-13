@@ -1,13 +1,10 @@
-<img alt="Banner" width="" src="banner.png"/>
-
-### Hi there, I'm  [Rajat Kumar Prajapati][website] 👋 
-
+[<img alt="Banner" width="" src="banner.png"/>][website]
 
 
 ## I'm a Developer !!
 
-- 👀 I’m interested in Ethical Hacking, App devlopment and Web
-- 🌱 I’m currently learning Webdevlopment and Ethical Hacking
+- 👀 I’m interested in Ethical Hacking, App development and Web
+- 🌱 I’m currently learning Webdevelopment and Ethical Hacking
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -24,6 +21,7 @@
  
 
 <br />
+<br />
 
 ### Languages:
 
@@ -39,6 +37,8 @@
 <br />
 <br />
 
+<br />
+
 ### Tools and Technology:
 
 <img align="left" alt="Node.js" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -48,6 +48,8 @@
 <img align="left" alt="Git" width="46px"src="https://img.icons8.com/color/48/000000/git.png"/>
 <img align="left" alt="GitHub" width="46px" src="https://img.icons8.com/fluency/48/000000/github.png"/>
 
+<br />
+<br />
 <br />
 <br />
 
