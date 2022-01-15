@@ -4,7 +4,7 @@
 ## I'm a Developer !!
 
 - 👀 I’m interested in Ethical Hacking, App development and Web
-- 🌱 I’m currently learning Webdevelopment and Ethical Hacking
+- 🌱 I’m currently learning Web development and Ethical Hacking
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -51,7 +51,6 @@
 <br />
 <br />
 <br />
-<br />
 
 ## Here is My Github Stats
 
@@ -66,6 +65,7 @@
 itsRajatkumar/itsRajatkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 
 [website]: https://rajatkumar.tech
 [twitter]: https://twitter.com/iam_Rkprajapati
