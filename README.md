@@ -31,22 +31,28 @@
 <img align="left" alt="HTML5" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="46px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img align="left" alt="Node.js" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="SQL" width="46px" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"/>
+<img align="left" alt="Visual Studio Code" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="MongoDB" width="46px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"/>
+<img align="left" alt="Git" width="46px" src="https://img.icons8.com/color/48/000000/git.png"/>
+<img align="left" alt="Git" width="46px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
+<img align="left" alt="Git" width="46px" src="https://symbols.getvecta.com/stencil_79/88_expressjs-icon.54bb6035d3.svg"/>
 
 
 
-<br />
-<br />
+<!---
+![github.png](https://img.icons8.com/fluency/48/000000/github.png) 
+
+--->
+
+
 
 <br />
 
 ### Tools and Technology:
 
-<img align="left" alt="Node.js" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="46px" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"/>
-<img align="left" alt="Visual Studio Code" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="MongoDB" width="46px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"/>
-<img align="left" alt="Git" width="46px"src="https://img.icons8.com/color/48/000000/git.png"/>
-<img align="left" alt="GitHub" width="46px" src="https://img.icons8.com/fluency/48/000000/github.png"/>
 
 <br />
 <br />
