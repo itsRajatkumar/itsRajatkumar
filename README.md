@@ -49,10 +49,6 @@
 
 
 
-<br />
-
-### Tools and Technology:
-
 
 <br />
 <br />
