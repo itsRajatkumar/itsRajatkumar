@@ -13,6 +13,8 @@ I'm from Neemuch, Madhya Pradesh, India. I love to build project on MERN.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn.
 
+<img src="https://komarev.com/ghpvc/?username=itsrajatkumar&&style=flat-square" align="center" />
+
 ### Connect with me:
 
 <a href="rajatkumar.tech" target="_blank"><img src="https://img.shields.io/badge/Rajatkumar.tech-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="thisisrajatkumar" /></a>
@@ -22,7 +24,11 @@ I'm from Neemuch, Madhya Pradesh, India. I love to build project on MERN.
 <a href="https://t.me/ThisisRajatKumar" target="_blank"><img src="https://img.shields.io/badge/Telegram-ThisisRajatKumar-33A8E3" alt="thisisrajatkumar" /></a>
 
  
+
 <br/>
+
+
+  
 <br/>
 
 <br />
