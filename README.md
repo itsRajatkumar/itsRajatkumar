@@ -10,7 +10,7 @@ I'm from Neemuch, Madhya Pradesh, India. I love to build project on MERN.
 - 👀 I’m interested in FullStak Web development and Application Development.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to build amezing projects.
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn.
 
 <img src="https://komarev.com/ghpvc/?username=itsrajatkumar&&style=flat-square" align="center" />
@@ -22,6 +22,7 @@ I'm from Neemuch, Madhya Pradesh, India. I love to build project on MERN.
 <a href="https://instagram.com/thisisrajatkumar" target="_blank"><img src="https://img.shields.io/badge/Follow @Thisisrajatkumar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="iam_Rkprajapati" /></a>
 <a href="https://www.linkedin.com/in/thisisrajatkumar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn @Thisisrajatkumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="thisisrajatkumar" /></a>
 <a href="https://t.me/ThisisRajatKumar" target="_blank"><img src="https://img.shields.io/badge/Telegram-ThisisRajatKumar-33A8E3" alt="thisisrajatkumar" /></a>
+<a href="https://www.npmjs.com/~thisisrajatkumar" target="_blank"><img src="https://img.shields.io/badge/npm-Thisisrajatkumar-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="thisisrajatkumar" /></a>
 
  
 
@@ -41,6 +42,7 @@ I'm from Neemuch, Madhya Pradesh, India. I love to build project on MERN.
 [<img align="left" alt="C" width="46px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>](https://rajatkumar.tech "C")
 [<img align="left" alt="C++" width="46px" src="https://www.svgrepo.com/show/303480/c-logo.svg"/>](https://rajatkumar.tech "C++")
 [<img align="left" alt="JavaScript" width="46px" src="https://www.svgrepo.com/show/355081/js.svg" />](https://rajatkumar.tech "JavaScript")
+[<img align="left" alt="TypeScript" width="46px" src="https://www.svgrepo.com/show/374146/typescript-official.svg" />](https://rajatkumar.tech "TypeScript")
 [<img align="left" alt="Python" width="46px" src="https://www.svgrepo.com/show/354238/python.svg"/>](https://rajatkumar.tech "Python")
 [<img align="left" alt="Java" width="46px" src="https://www.svgrepo.com/show/184143/java.svg"/>](https://rajatkumar.tech "Java")
 [<img align="left" alt="SQL" width="46px" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"/>](https://rajatkumar.tech "SQL")
@@ -59,6 +61,9 @@ I'm from Neemuch, Madhya Pradesh, India. I love to build project on MERN.
 [<img align="left" alt="ReactJS" width="46px" src="https://www.svgrepo.com/show/355190/reactjs.svg"/>](https://rajatkumar.tech "ReactJS")
 [<img align="left" alt="ExpressJS" width="46px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/>](https://rajatkumar.tech "ExpressJS")
 [<img align="left" alt="Djagno Rest Framework" width="46px" src="https://www.svgrepo.com/show/373554/django.svg"/>](https://rajatkumar.tech "Django Rest Framework")
+[<img align="left" alt="Tailwind CSS" width="46px" src="https://www.svgrepo.com/show/374118/tailwind.svg"/>](https://rajatkumar.tech "Tailwind CSS")
+[<img align="left" alt="Next JS" width="46px" src="https://www.svgrepo.com/show/368858/nextjs.svg"/>](https://rajatkumar.tech "NextJS")
+[<img align="left" alt="Sanity IO" width="46px" src="https://www.svgrepo.com/show/354309/sanity.svg"/>](https://rajatkumar.tech "Sanity IO")
 
 
 <br/>
@@ -90,6 +95,7 @@ I'm from Neemuch, Madhya Pradesh, India. I love to build project on MERN.
 ## ☁️ &nbsp;Cloud Plateform :
 [<img align="left" alt="Amazon Web Services" width="46px" src="https://www.svgrepo.com/show/376356/aws.svg"/>](https://rajatkumar.tech "Amazon Web Services")
 [<img align="left" alt="Google Cloud" width="46px" src="https://www.svgrepo.com/show/353805/google-cloud.svg"/>](https://rajatkumar.tech "Google Cloud")
+[<img align="left" alt="Azure Cloud" width="46px" src="https://www.svgrepo.com/show/353464/azure.svg"/>](https://rajatkumar.tech "Azure Cloud")
 
 <br/>
 <br/>
@@ -103,6 +109,25 @@ I'm from Neemuch, Madhya Pradesh, India. I love to build project on MERN.
 [<img align="left" alt="Pycharm" width="46px" src="https://www.svgrepo.com/show/354237/pycharm.svg"/>](https://rajatkumar.tech "Pycharm")
 [<img align="left" alt="Sub Lime Text" width="46px" src="https://www.svgrepo.com/show/349520/sublimetext.svg"/>](https://rajatkumar.tech "Sublime Text")
 [<img align="left" alt="Postman" width="46px" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/>](https://rajatkumar.tech "Postman")
+[<img align="left" alt="Gitpod IO" width="46px" src="https://devicons.railway.app/i/gitpod.svg"/>](https://rajatkumar.tech "Gitpod IO")
+
+<br/>
+<br/>
+<br/>
+ 
+ ## 📡 &nbsp;Deployments :
+[<img align="left" alt="Vercel" width="46px" src="https://www.svgrepo.com/show/354512/vercel.svg" />](https://rajatkumar.tech "Vercel")
+[<img align="left" alt="Heroku" width="46px" src="https://www.svgrepo.com/show/353869/heroku-icon.svg"/>](https://rajatkumar.tech "Heroku")
+[<img align="left" alt="Netlify" width="46px" src="https://pics.freeicons.io/uploads/icons/png/11987465721551941710-512.png"/>](https://rajatkumar.tech "Netlify")
+[<img align="left" alt="Firebase" width="46px" src="https://www.svgrepo.com/show/373595/firebase.svg"/>](https://rajatkumar.tech "Firebase")
+
+<br/>
+<br/>
+<br/>
+ 
+  ## 💾 &nbsp;Operating System :
+[<img align="left" alt="Windows" width="46px" src="https://www.svgrepo.com/show/382713/windows-applications.svg" />](https://rajatkumar.tech "Windows")
+[<img align="left" alt="Ubuntu" width="46px" src="https://www.svgrepo.com/show/349544/ubuntu.svg"/>](https://rajatkumar.tech "Ubuntu")
 
 <br/>
 <br/>
@@ -125,8 +150,13 @@ I'm from Neemuch, Madhya Pradesh, India. I love to build project on MERN.
   <a href='https://profile.codersrank.io/user/itsrajatkumar/'>
   <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=itsrajatkumar&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
   </a>
+ 
+   <a href='https://rajatkumar.tech'>
+  <img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsrajatkumar&theme=vue'>
+  </a>
 
 </details>
+
 
 
 <details>
