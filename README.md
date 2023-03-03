@@ -17,7 +17,7 @@ I'm from Neemuch, Madhya Pradesh, India. I love to build project on MERN.
 
 ### Connect with me:
 
-<a href="rajatkumar.tech" target="_blank"><img src="https://img.shields.io/badge/Rajatkumar.tech-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="thisisrajatkumar" /></a>
+<a href="https://rajatkumar.tech" target="_blank"><img src="https://img.shields.io/badge/Rajatkumar.tech-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="thisisrajatkumar" /></a>
 <a href="https://twitter.com/iam_Rkprajapati" target="_blank"><img src="https://img.shields.io/twitter/follow/iam_Rkprajapati?logo=twitter&style=for-the-badge" alt="iam_Rkprajapati" /></a>
 <a href="https://instagram.com/thisisrajatkumar" target="_blank"><img src="https://img.shields.io/badge/Follow @Thisisrajatkumar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="iam_Rkprajapati" /></a>
 <a href="https://www.linkedin.com/in/thisisrajatkumar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn @Thisisrajatkumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="thisisrajatkumar" /></a>
@@ -39,13 +39,13 @@ I'm from Neemuch, Madhya Pradesh, India. I love to build project on MERN.
 <!-- # 🛠 &nbsp;Tech Stack: -->
 
 ## 💻 &nbsp; Programming Languages:
-[<img align="left" alt="C" width="46px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>](https://rajatkumar.tech "C")
-[<img align="left" alt="C++" width="46px" src="https://www.svgrepo.com/show/303480/c-logo.svg"/>](https://rajatkumar.tech "C++")
-[<img align="left" alt="JavaScript" width="46px" src="https://www.svgrepo.com/show/355081/js.svg" />](https://rajatkumar.tech "JavaScript")
-[<img align="left" alt="TypeScript" width="46px" src="https://www.svgrepo.com/show/374146/typescript-official.svg" />](https://rajatkumar.tech "TypeScript")
-[<img align="left" alt="Python" width="46px" src="https://www.svgrepo.com/show/354238/python.svg"/>](https://rajatkumar.tech "Python")
-[<img align="left" alt="Java" width="46px" src="https://www.svgrepo.com/show/184143/java.svg"/>](https://rajatkumar.tech "Java")
-[<img align="left" alt="SQL" width="46px" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"/>](https://rajatkumar.tech "SQL")
+[<img align="left" alt="C" width="46px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>](# "C")
+[<img align="left" alt="C++" width="46px" src="https://www.svgrepo.com/show/303480/c-logo.svg"/>](# "C++")
+[<img align="left" alt="JavaScript" width="46px" src="https://www.svgrepo.com/show/355081/js.svg" />](# "JavaScript")
+[<img align="left" alt="TypeScript" width="46px" src="https://www.svgrepo.com/show/374146/typescript-official.svg" />](# "TypeScript")
+[<img align="left" alt="Python" width="46px" src="https://www.svgrepo.com/show/354238/python.svg"/>](# "Python")
+[<img align="left" alt="Java" width="46px" src="https://www.svgrepo.com/show/184143/java.svg"/>](# "Java")
+[<img align="left" alt="SQL" width="46px" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"/>](# "SQL")
 
 <br/>
 <br/>
@@ -53,17 +53,17 @@ I'm from Neemuch, Madhya Pradesh, India. I love to build project on MERN.
 <br/>
 
 ## 🌐 &nbsp; Web Development:
-[<img align="left" alt="HTML5" width="46px" src="https://www.svgrepo.com/show/303205/html-5-logo.svg" />](https://rajatkumar.tech "HTML")
-[<img align="left" alt="CSS3" width="46px" src="https://www.svgrepo.com/show/373535/css.svg" />](https://rajatkumar.tech "CSS")
-[<img align="left" alt="JavaScript" width="46px" src="https://www.svgrepo.com/show/355081/js.svg" />](https://rajatkumar.tech "JavaScript")
-[<img align="left" alt="BootStrape" width="46px" src="https://www.svgrepo.com/show/353498/bootstrap.svg"/>](https://rajatkumar.tech "Bootstrape")
-[<img align="left" alt="Node.js" width="46px" src="https://www.svgrepo.com/show/373929/node.svg" />](https://rajatkumar.tech "NodeJS")
-[<img align="left" alt="ReactJS" width="46px" src="https://www.svgrepo.com/show/355190/reactjs.svg"/>](https://rajatkumar.tech "ReactJS")
-[<img align="left" alt="ExpressJS" width="46px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/>](https://rajatkumar.tech "ExpressJS")
-[<img align="left" alt="Djagno Rest Framework" width="46px" src="https://www.svgrepo.com/show/373554/django.svg"/>](https://rajatkumar.tech "Django Rest Framework")
-[<img align="left" alt="Tailwind CSS" width="46px" src="https://www.svgrepo.com/show/374118/tailwind.svg"/>](https://rajatkumar.tech "Tailwind CSS")
-[<img align="left" alt="Next JS" width="46px" src="https://www.svgrepo.com/show/368858/nextjs.svg"/>](https://rajatkumar.tech "NextJS")
-[<img align="left" alt="Sanity IO" width="46px" src="https://www.svgrepo.com/show/354309/sanity.svg"/>](https://rajatkumar.tech "Sanity IO")
+[<img align="left" alt="HTML5" width="46px" src="https://www.svgrepo.com/show/303205/html-5-logo.svg" />](# "HTML")
+[<img align="left" alt="CSS3" width="46px" src="https://www.svgrepo.com/show/373535/css.svg" />](# "CSS")
+[<img align="left" alt="JavaScript" width="46px" src="https://www.svgrepo.com/show/355081/js.svg" />](# "JavaScript")
+[<img align="left" alt="BootStrape" width="46px" src="https://www.svgrepo.com/show/353498/bootstrap.svg"/>](# "Bootstrape")
+[<img align="left" alt="Node.js" width="46px" src="https://www.svgrepo.com/show/373929/node.svg" />](# "NodeJS")
+[<img align="left" alt="ReactJS" width="46px" src="https://www.svgrepo.com/show/355190/reactjs.svg"/>](# "ReactJS")
+[<img align="left" alt="ExpressJS" width="46px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/>](# "ExpressJS")
+[<img align="left" alt="Djagno Rest Framework" width="46px" src="https://www.svgrepo.com/show/373554/django.svg"/>](# "Django Rest Framework")
+[<img align="left" alt="Tailwind CSS" width="46px" src="https://www.svgrepo.com/show/374118/tailwind.svg"/>](# "Tailwind CSS")
+[<img align="left" alt="Next JS" width="46px" src="https://www.svgrepo.com/show/368858/nextjs.svg"/>](# "NextJS")
+[<img align="left" alt="Sanity IO" width="46px" src="https://www.svgrepo.com/show/354309/sanity.svg"/>](# "Sanity IO")
 
 
 <br/>
@@ -72,8 +72,8 @@ I'm from Neemuch, Madhya Pradesh, India. I love to build project on MERN.
 <br/>
 
 ## 🛢 &nbsp;Database :
-[<img align="left" alt="MySQL" width="46px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg"/>](https://rajatkumar.tech "MySQL")
-[<img align="left" alt="MongoDB" width="46px" src="https://www.svgrepo.com/show/331488/mongodb.svg"/>](https://rajatkumar.tech "MongoDB")
+[<img align="left" alt="MySQL" width="46px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg"/>](# "MySQL")
+[<img align="left" alt="MongoDB" width="46px" src="https://www.svgrepo.com/show/331488/mongodb.svg"/>](# "MongoDB")
 
 
 
@@ -83,9 +83,9 @@ I'm from Neemuch, Madhya Pradesh, India. I love to build project on MERN.
 <br/>
 
 ## ⚙️ &nbsp;Version Control :
-[<img align="left" alt="Git" width="46px" src="https://img.icons8.com/color/48/000000/git.png"/>](https://rajatkumar.tech "Git")
-[<img align="left" alt="Github" width="46px" src="https://www.svgrepo.com/show/416517/code-github-hosting.svg"/>](https://rajatkumar.tech "Github")
-[<img align="left" alt="Bit Bucket" width="46px" src="https://www.svgrepo.com/show/331312/bitbucket.svg"/>](https://rajatkumar.tech "Bit Bucket")
+[<img align="left" alt="Git" width="46px" src="https://img.icons8.com/color/48/000000/git.png"/>](# "Git")
+[<img align="left" alt="Github" width="46px" src="https://www.svgrepo.com/show/416517/code-github-hosting.svg"/>](# "Github")
+[<img align="left" alt="Bit Bucket" width="46px" src="https://www.svgrepo.com/show/331312/bitbucket.svg"/>](# "Bit Bucket")
 
 <br/>
 <br/>
@@ -93,41 +93,43 @@ I'm from Neemuch, Madhya Pradesh, India. I love to build project on MERN.
 
 
 ## ☁️ &nbsp;Cloud Plateform :
-[<img align="left" alt="Amazon Web Services" width="46px" src="https://www.svgrepo.com/show/376356/aws.svg"/>](https://rajatkumar.tech "Amazon Web Services")
-[<img align="left" alt="Google Cloud" width="46px" src="https://www.svgrepo.com/show/353805/google-cloud.svg"/>](https://rajatkumar.tech "Google Cloud")
-[<img align="left" alt="Azure Cloud" width="46px" src="https://www.svgrepo.com/show/353464/azure.svg"/>](https://rajatkumar.tech "Azure Cloud")
-
+[<img align="left" alt="Amazon Web Services" width="46px" src="https://www.svgrepo.com/show/376356/aws.svg"/>](# "Amazon Web Services")
+[<img align="left" alt="Google Cloud" width="46px" src="https://www.svgrepo.com/show/353805/google-cloud.svg"/>](# "Google Cloud")
+[<img align="left" alt="Azure Cloud" width="46px" src="https://www.svgrepo.com/show/353464/azure.svg"/>](# "Azure Cloud")
+[<img align="left" alt="Azure Cloud" width="46px" src="https://www.svgrepo.com/show/448218/digital-ocean.svg"/>](# "Digital Ocean")
 <br/>
 <br/>
 <br/>
 
 
 ## 🔧 &nbsp;Tools :
-[<img align="left" alt="Visual Studio Code" width="46px" src="https://www.svgrepo.com/show/374171/vscode.svg" />](https://rajatkumar.tech "Visual Studio Code")
-[<img align="left" alt="Juputer Notebook" width="46px" src="https://www.svgrepo.com/show/353949/jupyter.svg"/>](https://rajatkumar.tech "Jupyter Notebook")
-[<img align="left" alt="Google Colab" width="46px" src="https://www.svgrepo.com/show/349325/colaboratory.svg"/>](https://rajatkumar.tech "Google Colab")
-[<img align="left" alt="Pycharm" width="46px" src="https://www.svgrepo.com/show/354237/pycharm.svg"/>](https://rajatkumar.tech "Pycharm")
-[<img align="left" alt="Sub Lime Text" width="46px" src="https://www.svgrepo.com/show/349520/sublimetext.svg"/>](https://rajatkumar.tech "Sublime Text")
-[<img align="left" alt="Postman" width="46px" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/>](https://rajatkumar.tech "Postman")
-[<img align="left" alt="Gitpod IO" width="46px" src="https://devicons.railway.app/i/gitpod.svg"/>](https://rajatkumar.tech "Gitpod IO")
+[<img align="left" alt="Visual Studio Code" width="46px" src="https://www.svgrepo.com/show/374171/vscode.svg" />](# "Visual Studio Code")
+[<img align="left" alt="Juputer Notebook" width="46px" src="https://www.svgrepo.com/show/353949/jupyter.svg"/>](# "Jupyter Notebook")
+[<img align="left" alt="Google Colab" width="46px" src="https://www.svgrepo.com/show/349325/colaboratory.svg"/>](# "Google Colab")
+[<img align="left" alt="Pycharm" width="46px" src="https://www.svgrepo.com/show/354237/pycharm.svg"/>](# "Pycharm")
+[<img align="left" alt="Sub Lime Text" width="46px" src="https://www.svgrepo.com/show/349520/sublimetext.svg"/>](# "Sublime Text")
+[<img align="left" alt="Postman" width="46px" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/>](# "Postman")
+[<img align="left" alt="Postman" width="46px" src="https://www.svgrepo.com/show/448222/figma.svg"/>](# "Figma")
+ [<img align="left" alt="Postman" width="46px" src="https://www.svgrepo.com/show/504202/canva.svg"/>](# "Figma")
+[<img align="left" alt="Gitpod IO" width="46px" src="https://devicons.railway.app/i/gitpod.svg"/>](# "Gitpod IO")
 
 <br/>
 <br/>
 <br/>
  
  ## 📡 &nbsp;Deployments :
-[<img align="left" alt="Vercel" width="46px" src="https://www.svgrepo.com/show/354512/vercel.svg" />](https://rajatkumar.tech "Vercel")
-[<img align="left" alt="Heroku" width="46px" src="https://www.svgrepo.com/show/353869/heroku-icon.svg"/>](https://rajatkumar.tech "Heroku")
-[<img align="left" alt="Netlify" width="46px" src="https://pics.freeicons.io/uploads/icons/png/11987465721551941710-512.png"/>](https://rajatkumar.tech "Netlify")
-[<img align="left" alt="Firebase" width="46px" src="https://www.svgrepo.com/show/373595/firebase.svg"/>](https://rajatkumar.tech "Firebase")
+[<img align="left" alt="Vercel" width="46px" src="https://www.svgrepo.com/show/354512/vercel.svg" />](# "Vercel")
+[<img align="left" alt="Heroku" width="46px" src="https://www.svgrepo.com/show/353869/heroku-icon.svg"/>](# "Heroku")
+[<img align="left" alt="Netlify" width="46px" src="https://pics.freeicons.io/uploads/icons/png/11987465721551941710-512.png"/>](# "Netlify")
+[<img align="left" alt="Firebase" width="46px" src="https://www.svgrepo.com/show/373595/firebase.svg"/>](# "Firebase")
 
 <br/>
 <br/>
 <br/>
  
   ## 💾 &nbsp;Operating System :
-[<img align="left" alt="Windows" width="46px" src="https://www.svgrepo.com/show/382713/windows-applications.svg" />](https://rajatkumar.tech "Windows")
-[<img align="left" alt="Ubuntu" width="46px" src="https://www.svgrepo.com/show/349544/ubuntu.svg"/>](https://rajatkumar.tech "Ubuntu")
+[<img align="left" alt="Windows" width="46px" src="https://www.svgrepo.com/show/382713/windows-applications.svg" />](# "Windows")
+[<img align="left" alt="Ubuntu" width="46px" src="https://www.svgrepo.com/show/349544/ubuntu.svg"/>](# "Ubuntu")
 
 <br/>
 <br/>
